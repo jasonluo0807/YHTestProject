@@ -1,0 +1,22 @@
+{
+  "name": "YHTestProject",
+  "version": "0.1.0",
+  "summary": "A short description of YHTestProject.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Json_L/YHTestProject",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Json_L": "450319768@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/Json_L/YHTestProject.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "YHTestProject/Classes/**/*"
+}

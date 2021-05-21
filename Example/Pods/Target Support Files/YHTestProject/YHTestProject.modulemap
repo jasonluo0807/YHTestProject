@@ -1,0 +1,6 @@
+framework module YHTestProject {
+  umbrella header "YHTestProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
